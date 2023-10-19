@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proq.software", "proq.software\proq.software.csproj", "{4A6DAA19-C779-4BBF-B9DF-1CFAE51237CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test.proq.software", "test.proq.software\test.proq.software.csproj", "{37729B21-7423-4F3D-AE66-530E05E96E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6DAA19-C779-4BBF-B9DF-1CFAE51237CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6DAA19-C779-4BBF-B9DF-1CFAE51237CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6DAA19-C779-4BBF-B9DF-1CFAE51237CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6DAA19-C779-4BBF-B9DF-1CFAE51237CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37729B21-7423-4F3D-AE66-530E05E96E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37729B21-7423-4F3D-AE66-530E05E96E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37729B21-7423-4F3D-AE66-530E05E96E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37729B21-7423-4F3D-AE66-530E05E96E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D65800-ED58-43E3-AF5C-195EACBD4F2C}
+	EndGlobalSection
+EndGlobal
